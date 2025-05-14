@@ -15,4 +15,4 @@ This is a simple web based age calculator that allows user to input tseir date o
 ## How to Use
 1. Clone the repository:
  ```bash
-  git clone  
+  git clone  https://github.com/neha-sonii/Age-Calculator.git
